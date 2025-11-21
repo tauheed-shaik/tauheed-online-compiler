@@ -2,7 +2,7 @@
 
 An online, browser-based code runner that lets you write, execute, and experiment with code directly from your browser — no local setup required.
 
-🚀 **Live App:** https://tauheed-online-compiler.lovable.app/  
+🚀 **Live App:** [Link](https://tauheed-online-compiler.lovable.app/)
 
 ---
 
